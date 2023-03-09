@@ -1,4 +1,4 @@
-# Readme para o projeto "Gestão de Festas"
+# Gestão de Festas
 Este é um projeto em Java que foi desenvolvido como parte de um curso da AlgaWorks para demonstrar o uso do framework Spring Boot para construção de aplicações web.
 
 # Funcionalidades
